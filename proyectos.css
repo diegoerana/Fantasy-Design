@@ -10,21 +10,6 @@
     font-weight: 400;
 }
 
-header {
-    width: 100%;
-    height: 470px;
-    background: url(./img/Captura\ de\ Pantalla\ 2021-08-30\ a\ la\(s\)\ 22.48\ 1.png);
-    background-size: cover;
-    position: relative;
-}
-
-.headerBarraContacto {
-    width: 100%;
-    height: 50px;
-    background: url(./img/Captura\ de\ Pantalla\ 2021-08-30\ a\ la\(s\)\ 22.48\ 1.png);
-    background-size: cover;
-    position: sticky;
-}
 
 .headerBarra .imgLogo{
     position: relative;

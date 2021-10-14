@@ -85,3 +85,19 @@
 }
 
 /*--------------NavBar----------------*/
+
+.personasNosotros{
+    display: flex;
+    justify-content: center;
+    
+}
+.personasNosotros .personasNosotrosContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contenedorValores{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
